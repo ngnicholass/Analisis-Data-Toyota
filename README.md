@@ -37,7 +37,7 @@ Fungsi: Mengatasi missing value dan menggantinya, jika tipe data Number(int) aka
 <img width="484" height="152" alt="image" src="https://github.com/user-attachments/assets/84325ba8-962e-4e8a-bca5-7f3eacf10985" />
 
 ### 5. Linear Correlation
-Fungsi: Untuk melihat korelasi variabel data, positif atau negatif.
+Fungsi: Untuk melihat korelasi variabel data, positif atau negatif. Terlihat bahwa variabel Price dengan umur memiliki korelasi negatif, variabel price dengan KM memiliki korelasi negatif, dan variabel price dengan HP memiliki korelasi positif.
 
 <img width="458" height="277" alt="image" src="https://github.com/user-attachments/assets/bba16085-6507-4785-b26b-d635b67a3413" />
 
@@ -81,8 +81,15 @@ Fungsi: Membuat aturan logika untuk menghasilkan kolom baru berdasarkan kondisi 
 6. Setelah dilakukan klasifikasi berdasarkan harga, didapatkan insight bahwa mobil kelas mahal memiliki umur yang rendah dan mobil kelas murah memiliki umur yang lebih tua. Mobil kelas mahal juga memiliki KM yang lebih rendah dari kelas sedang dan murah, tetapi mobil dengan kelas murah memiliki KM yang paling tinggi. Terakhir, mobil kelas mahal cenderung memiliki HP yang lebih rendah dari mobil dengan kelas murah dan sedang(dilihat dari median).
 
    Visualisasi:
+   1. Variabel Umur
+   <img width="481" height="352" alt="image" src="https://github.com/user-attachments/assets/b1cf76fb-bf2e-4bef-af05-9a598a272e59" />
 
-   <img width="484" height="342" alt="image" src="https://github.com/user-attachments/assets/9f85dd8a-6cde-4ebf-9f05-029de4c1159f" />
+   2. Variabel KM
+   <img width="481" height="352" alt="image" src="https://github.com/user-attachments/assets/13aa2a38-52d4-40da-9cc7-d09355e73329" />
+
+   3. Variabel HP
+   <img width="481" height="352" alt="image" src="https://github.com/user-attachments/assets/7d5d383b-dc79-4c40-ae98-787649ac4dd3" />
+
 
 ---
 ## 4. Kesimpulan
